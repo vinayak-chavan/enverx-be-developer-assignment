@@ -1,4 +1,4 @@
-[![N|Solid](https://www.enverx.com/wp-content/themes/scr/img/content/enverx.svg)](https://www.enverx.com/)
+[![N|Solid](https://iili.io/Hi9giog.png)](https://www.enverx.com/)
 
 EnverX offers a simple and convenient platform to fund early stage projects
 and trade future carbon credits.
