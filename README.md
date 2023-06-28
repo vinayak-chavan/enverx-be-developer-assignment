@@ -10,6 +10,7 @@ and trade future carbon credits.
 - Take a fresh `pull`
 - Create a `developement` branch
 - `Push` the updated code after task completion
+
 Note: Make sure to add proper `commit` messages
 
 ### Task Requirements
