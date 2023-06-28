@@ -26,11 +26,11 @@ Note: Make sure to add proper `commit` messages
 1. Set up a new Node.js project and initialize it with a package.json file.
 2. Create the necessary Express.js routes and controllers for CRUD operations on blog posts.
 
-> `GET /posts` - Get all blog posts.
-> `GET /posts/:id` - Get a specific blog post by ID (Apply filters like gender, userId, age etc).
-> `POST /posts` - Create a new blog post.
-> `PUT /posts/:id` - Update an existing blog post.
-> `DELETE /posts/:id` - Delete a blog post.
+`GET /posts` - Get all blog posts.
+`GET /posts/:id` - Get a specific blog post by ID (Apply filters like gender, userId, age etc).
+`POST /posts` - Create a new blog post.
+`PUT /posts/:id` - Update an existing blog post.
+`DELETE /posts/:id` - Delete a blog post.
 
 3. Implement validation for the API endpoints to ensure the data is correct and complete.
 4. Handle errors gracefully and return appropriate HTTP status codes (e.g., 404 for not found, 500 for server errors, etc.).
