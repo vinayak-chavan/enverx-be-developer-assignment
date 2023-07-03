@@ -23,6 +23,7 @@ Note: Make sure to add proper `commit` messages
 6. Implement error handling and return appropriate HTTP status codes.
 7. Use Git for version control and host the project on GitHub.
 8. Write clear and concise documentation on how to set up and use the API.
+9. Use Typescript to get a Bonus point.
 
 ### Functional Requirements
 1. Set up a new Node.js project and initialize it with a package.json file.
