@@ -15,17 +15,18 @@ Clone this repo Hit the below commands
 
 ```diff
 - npm install
+- npx tsc
 - node dist/index.js
 ```
 
 ### API Endpoints
 
 ```diff
-- GET http://localhost:3001/blogs (to fetch all blog posts)
-- GET http://localhost:3001/blogs/:id (to fetch one blog post)
-- POST http://localhost:3001/blogs (to add blog post)
-- PUT http://localhost:3001/blogs/:id (to update blog post)
-- DELETE http://localhost:3001/blogs/:id (to delete blog post)
+GET http://localhost:3001/blogs (to fetch all blog posts)
+GET http://localhost:3001/blogs/:id (to fetch one blog post)
+POST http://localhost:3001/blogs (to add blog post)
+PUT http://localhost:3001/blogs/:id (to update blog post)
+DELETE http://localhost:3001/blogs/:id (to delete blog post)
 ```
 
 # Postman Document Link
